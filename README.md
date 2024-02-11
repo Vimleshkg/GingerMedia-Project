@@ -11,12 +11,15 @@
 <img width="960" alt="Screenshot 2024-02-10 154635" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/f7c4478a-a991-43c8-8822-e74055407be2">
 <img width="960" alt="Screenshot 2024-02-10 154628" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/0513147b-a125-4c19-8796-6232f665e1b5">
 
-# database image 
+
+
+# database image -
 
 <img width="960" alt="Screenshot 2024-02-10 154646" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/da587448-7ce9-49f7-a215-d578f7a3828a">
 
 
-#mobile based 
+
+#mobile based- 
 
 <img width="149" alt="Screenshot 2024-02-10 154728" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/37ab073b-26ff-4efe-9b4f-177a98731724">
 <img width="960" alt="Screenshot 2024-02-10 154526" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/05a42a3a-5bf2-4c83-8e96-0b8d0b0f5428">
