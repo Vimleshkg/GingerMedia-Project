@@ -24,7 +24,8 @@
 
 <img width="149" alt="Screenshot 2024-02-10 154728" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/37ab073b-26ff-4efe-9b4f-177a98731724">
 
+<img width="143" alt="Screenshot 2024-02-10 154732" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/c5d9c308-904d-4a4f-ae51-d2e40ae3a094">
 
-<img width="157" alt="Screenshot 2024-02-10 154732" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/7e76e577-4832-4fe6-9b37-4fe7d6b77791">
+
 <img width="143" alt="Screenshot 2024-02-10 154711" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/0d098323-3973-49f3-8a70-39749222a15a">
 
