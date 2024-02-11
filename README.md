@@ -18,7 +18,7 @@
 
 #mobile based 
 
-<img width="<img width="149" alt="Screenshot 2024-02-10 154728" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/37ab073b-26ff-4efe-9b4f-177a98731724">
+<img width="149" alt="Screenshot 2024-02-10 154728" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/37ab073b-26ff-4efe-9b4f-177a98731724">
 <img width="960" alt="Screenshot 2024-02-10 154526" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/05a42a3a-5bf2-4c83-8e96-0b8d0b0f5428">
 <img width="157" alt="Screenshot 2024-02-10 154732" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/7e76e577-4832-4fe6-9b37-4fe7d6b77791">
 <img width="143" alt="Screenshot 2024-02-10 154711" src="https://github.com/Vimleshkg/GingerMedia-Project/assets/125298546/0d098323-3973-49f3-8a70-39749222a15a">
