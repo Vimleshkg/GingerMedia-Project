@@ -1,4 +1,4 @@
-# after setup please, write on terminal, npm init for initilizing node modules, and install and setup some dependencies ( tailwindcss, react-router-dom, axios).
+# after setup please, write on terminal, npm install for initilizing node modules, and install and setup some dependencies ( tailwindcss, react-router-dom, axios).
 
 
 # images of project
